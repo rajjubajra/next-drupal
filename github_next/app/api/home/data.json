@@ -1,0 +1,125 @@
+
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "node--tennis_home_page",
+      "id": "e35e8c7f-5e83-4fc5-8813-334513549357",
+      "links": {
+        "self": {
+          "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357?resourceVersion=id%3A3"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 1,
+        "drupal_internal__vid": 3,
+        "langcode": "en",
+        "revision_timestamp": "2023-04-16T07:41:34+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "Welcome to our tennis courses website!",
+        "created": "2023-04-16T07:14:29+00:00",
+        "changed": "2023-04-16T07:41:34+00:00",
+        "promote": false,
+        "sticky": false,
+        "default_langcode": true,
+        "revision_translation_affected": null,
+        "path": {
+          "alias": null,
+          "pid": null,
+          "langcode": "en"
+        },
+        "body": {
+          "value": "<p>Our passion is tennis, and we're excited to share our love of the game with you. Whether you're a beginner or an experienced player, we have courses that will help you take your game to the next level.</p><p>Our experienced coaches have designed courses to help you develop your skills, improve your technique, and boost your confidence on the court. We offer a variety of courses to meet your needs, from introductory classes to advanced training.</p><p>Our facilities are top-notch, with well-maintained courts and top-of-the-line equipment. We also offer individualized instruction and group classes, so you can choose the option that works best for you.</p><p>Our courses are not only about improving your tennis skills but also about having fun and meeting new people who share your passion for the sport. We believe that playing tennis is a great way to stay active, healthy, and happy.</p><p>We're dedicated to providing an exceptional tennis experience for our students, and we're confident that you'll love our courses as much as we do. So come and join us on the court, and let's get started on your journey to becoming a better tennis player!</p>",
+          "format": "basic_html",
+          "processed": "<p>Our passion is tennis, and we're excited to share our love of the game with you. Whether you're a beginner or an experienced player, we have courses that will help you take your game to the next level.</p><p>Our experienced coaches have designed courses to help you develop your skills, improve your technique, and boost your confidence on the court. We offer a variety of courses to meet your needs, from introductory classes to advanced training.</p><p>Our facilities are top-notch, with well-maintained courts and top-of-the-line equipment. We also offer individualized instruction and group classes, so you can choose the option that works best for you.</p><p>Our courses are not only about improving your tennis skills but also about having fun and meeting new people who share your passion for the sport. We believe that playing tennis is a great way to stay active, healthy, and happy.</p><p>We're dedicated to providing an exceptional tennis experience for our students, and we're confident that you'll love our courses as much as we do. So come and join us on the court, and let's get started on your journey to becoming a better tennis player!</p>",
+          "summary": ""
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9928dadd-bd2b-4808-8a32-24502a1297af",
+            "meta": {
+              "drupal_internal__target_id": "tennis_home_page"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/node_type?resourceVersion=id%3A3"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/relationships/node_type?resourceVersion=id%3A3"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "6e9cfa81-279f-4b30-b019-e18ce82357af",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/revision_uid?resourceVersion=id%3A3"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/relationships/revision_uid?resourceVersion=id%3A3"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "6e9cfa81-279f-4b30-b019-e18ce82357af",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/uid?resourceVersion=id%3A3"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/relationships/uid?resourceVersion=id%3A3"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "1195b83d-5af6-4354-8513-895a974a6f9a",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/field_media_image?resourceVersion=id%3A3"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page/e35e8c7f-5e83-4fc5-8813-334513549357/relationships/field_media_image?resourceVersion=id%3A3"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_home_page"
+    }
+  }
+}

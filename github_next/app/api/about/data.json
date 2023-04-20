@@ -1,0 +1,125 @@
+
+{
+  "jsonapi": {
+    "version": "1.0",
+    "meta": {
+      "links": {
+        "self": {
+          "href": "http://jsonapi.org/format/1.0/"
+        }
+      }
+    }
+  },
+  "data": [
+    {
+      "type": "node--tennis_about_us",
+      "id": "fd5a16eb-132a-402a-8ea4-2a7fe37f7f23",
+      "links": {
+        "self": {
+          "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23?resourceVersion=id%3A4"
+        }
+      },
+      "attributes": {
+        "drupal_internal__nid": 2,
+        "drupal_internal__vid": 4,
+        "langcode": "en",
+        "revision_timestamp": "2023-04-16T09:27:42+00:00",
+        "revision_log": null,
+        "status": true,
+        "title": "About us",
+        "created": "2023-04-16T09:26:56+00:00",
+        "changed": "2023-04-16T09:27:42+00:00",
+        "promote": false,
+        "sticky": false,
+        "default_langcode": true,
+        "revision_translation_affected": true,
+        "path": {
+          "alias": null,
+          "pid": null,
+          "langcode": "en"
+        },
+        "body": {
+          "value": "<p>Welcome to our tennis courses website! We are a team of experienced tennis coaches who are passionate about teaching the sport and helping players improve their skills. Our mission is to create a positive and supportive learning environment where players of all levels can grow and develop their game.</p><p>Our coaching staff is highly trained and certified, with years of experience coaching players at all levels, from beginners to advanced players. We use a variety of teaching methods and techniques to help our students improve their strokes, footwork, and strategy on the court. Our goal is to provide each player with the personalized attention and instruction they need to achieve their tennis goals.</p><p>At our tennis courses, we offer a range of programs to suit the needs of every player. We offer group classes, private lessons, clinics, and camps for players of all ages and skill levels. Whether you are a beginner looking to learn the basics or an advanced player looking to refine your skills, we have a program that will help you achieve your goals.</p><p>We are dedicated to creating a fun and supportive environment where players can enjoy the game of tennis while improving their skills. We believe that tennis is more than just a sport – it’s a way of life. So come join us on the court and discover the joy of playing tennis!</p>",
+          "format": "basic_html",
+          "processed": "<p>Welcome to our tennis courses website! We are a team of experienced tennis coaches who are passionate about teaching the sport and helping players improve their skills. Our mission is to create a positive and supportive learning environment where players of all levels can grow and develop their game.</p><p>Our coaching staff is highly trained and certified, with years of experience coaching players at all levels, from beginners to advanced players. We use a variety of teaching methods and techniques to help our students improve their strokes, footwork, and strategy on the court. Our goal is to provide each player with the personalized attention and instruction they need to achieve their tennis goals.</p><p>At our tennis courses, we offer a range of programs to suit the needs of every player. We offer group classes, private lessons, clinics, and camps for players of all ages and skill levels. Whether you are a beginner looking to learn the basics or an advanced player looking to refine your skills, we have a program that will help you achieve your goals.</p><p>We are dedicated to creating a fun and supportive environment where players can enjoy the game of tennis while improving their skills. We believe that tennis is more than just a sport – it’s a way of life. So come join us on the court and discover the joy of playing tennis!</p>",
+          "summary": ""
+        }
+      },
+      "relationships": {
+        "node_type": {
+          "data": {
+            "type": "node_type--node_type",
+            "id": "9e14fa3b-550b-49bb-9edc-27051e728fa6",
+            "meta": {
+              "drupal_internal__target_id": "tennis_about_us"
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/node_type?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/relationships/node_type?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "revision_uid": {
+          "data": {
+            "type": "user--user",
+            "id": "6e9cfa81-279f-4b30-b019-e18ce82357af",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/revision_uid?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/relationships/revision_uid?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "uid": {
+          "data": {
+            "type": "user--user",
+            "id": "6e9cfa81-279f-4b30-b019-e18ce82357af",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/uid?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/relationships/uid?resourceVersion=id%3A4"
+            }
+          }
+        },
+        "field_media_image": {
+          "data": {
+            "type": "media--image",
+            "id": "1195b83d-5af6-4354-8513-895a974a6f9a",
+            "meta": {
+              "drupal_internal__target_id": 1
+            }
+          },
+          "links": {
+            "related": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/field_media_image?resourceVersion=id%3A4"
+            },
+            "self": {
+              "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us/fd5a16eb-132a-402a-8ea4-2a7fe37f7f23/relationships/field_media_image?resourceVersion=id%3A4"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "links": {
+    "self": {
+      "href": "https://sports.yellow-website.com/backend/jsonapi/node/tennis_about_us"
+    }
+  }
+}
